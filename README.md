@@ -5,7 +5,7 @@
 
 <img width="707" height="156" alt="image" src="https://github.com/user-attachments/assets/2a7f4468-bcd7-409d-b65d-262665378c3a" />
 
-<img width="2560" height="1363" alt="image" src="https://github.com/user-attachments/assets/7ba28206-638d-4fac-ba0e-fe1fe24e6a8f" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/86635ffd-bc8e-43e5-9466-4b4c613b1350" />
 
 2) Создайте инстанс с помощью Cloud Shell. Скриншот в качестве результата.
 
